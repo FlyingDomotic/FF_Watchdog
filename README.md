@@ -17,7 +17,7 @@ git clone https://github.com/FlyingDomotic/FF_Watchdog.git FF_Watchdog
 
 Go to code folder and pull new version:
 ```
-cd <where_you_installed_FF_Waatchdog>
+cd <where_you_installed_FF_Watchdog>
 git pull
 ```
 
